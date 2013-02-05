@@ -1,0 +1,1 @@
+$(document).ready(function(){$('.modal').colorbox({width:'700px',height:'380px'});});
